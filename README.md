@@ -54,9 +54,9 @@ src/
 1. Clone the repository:
 
 ```
-> git clone https://github.com/yourusername/employee-management-system.git
+> git clone https://github.com/hariceiocod/smart-shift-scheduler.git
 > 
-> cd employee-management-system
+> cd smart-shift-scheduler
 
 1. Install dependencies:
 2. Set up environment variables:
