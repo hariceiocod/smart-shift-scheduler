@@ -59,7 +59,7 @@ git clone https://github.com/hariceiocod/smart-shift-scheduler.git
 cd smart-shift-scheduler
 ```
 
-1. Install dependencies:
+2. Install dependencies:
 ```
 npm install
 ```
@@ -71,7 +71,7 @@ Create a `.env` file in the root directory and configure the necessary API keys 
 VITE_API_BASE_URL=https://your-api-url.com
 ```
 
-1. Run the application:
+4. Run the application:
 
 ```
 npm run dev
