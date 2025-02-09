@@ -54,8 +54,6 @@ src/
 
 1. Clone the repository:
 ```
-```
-```
 git clone https://github.com/hariceiocod/smart-shift-scheduler.git
 cd smart-shift-scheduler
 ```
