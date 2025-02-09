@@ -59,7 +59,11 @@ src/
 > cd smart-shift-scheduler
 
 1. Install dependencies:
-2. Set up environment variables:
+```
+npm install
+
+```
+3. Set up environment variables:
 
 Create a `.env` file in the root directory and configure the necessary API keys and base URLs:
 
